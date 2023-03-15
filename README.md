@@ -1,2 +1,2 @@
-This is my personal website!
-Thank you for visiting. :-)
+This is my personal website.
+Thank you for visiting.
